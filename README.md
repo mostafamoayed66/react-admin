@@ -78,6 +78,9 @@ CoreUI-React#v3.0.0
 └── package.json
 ```
 
+## Creators
+**Mostafa Moayedpour**
+
 ## Copyright and License
 
 copyright 2020 creator Mostafa Moayedpour.   
