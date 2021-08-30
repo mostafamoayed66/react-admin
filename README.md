@@ -1,3 +1,6 @@
+## Creator
+# Mostafa Moayedpour
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
@@ -141,7 +144,7 @@ For transparency into our release cycle and in striving to maintain backward com
 
 See [the Releases section of our project](https://github.com/coreui/coreui-free-react-admin-template/releases) for changelogs for each release version.
 
-## Creators
+## Creators of CoreUI Free React Admin Template v3
 
 **Łukasz Holeczek**
 * <https://twitter.com/lukaszholeczek>
