@@ -84,20 +84,10 @@ The documentation for the CoreUI Admin Template is hosted at our website [CoreUI
 
 ### :film_strip: How to setup coreui react theme in laravel. Video tutorial available [here](https://youtu.be/HVVpbpNUJ8M)
 
-## Versioning
-
-For transparency into our release cycle and in striving to maintain backward compatibility, CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
-
-See [the Releases section of our project](https://github.com/coreui/coreui-free-react-admin-template/releases) for changelogs for each release version.
-
-**CoreUI team**
-* https://github.com/orgs/coreui/people
-
-
 ## Copyright and License
 
-copyright 2020 creativeLabs Mostafa Moayedpour.   
+copyright 2020 creator Mostafa Moayedpour.   
 
  
-Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/mostafamoayed66/react-admin/blob/main/LICENSE).
 There is only one limitation you can't can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In past we faced some problems with persons who tried to sell CoreUI based templates.
