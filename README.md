@@ -78,12 +78,6 @@ CoreUI-React#v3.0.0
 └── package.json
 ```
 
-## Documentation
-
-The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/)
-
-### :film_strip: How to setup coreui react theme in laravel. Video tutorial available [here](https://youtu.be/HVVpbpNUJ8M)
-
 ## Copyright and License
 
 copyright 2020 creator Mostafa Moayedpour.   
